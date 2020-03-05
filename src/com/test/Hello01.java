@@ -1,6 +1,6 @@
 package com.test;
 
-import com.test.controller.Customer;
+//import com.test.controller.Customer;
 
 import java.util.ArrayList;
 import java.util.Date;
@@ -13,8 +13,8 @@ public class Hello01 {
 
     public static void main(String[] args) {
 
-
-        Customer c = new Customer();
+//  将不需要的引用注释掉
+//        Customer c = new Customer();
 
         System.out.println("a");
         System.out.println("a");
